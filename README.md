@@ -16,5 +16,8 @@ I'm Luis Abal, I'm a Front End Programmer, currently I'm learning and creating p
 <br>
 <br>
 ![Luis stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luis-abal&show_icons=true&theme=radical)
+<br>
+<br>
+![luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-abal&layout=compact&theme=radical)
 
  
